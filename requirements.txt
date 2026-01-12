@@ -2,3 +2,7 @@ requests
 tweepy
 textblob
 pytest
+torch
+numpy
+transformers
+scipy
