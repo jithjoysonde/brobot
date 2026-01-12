@@ -37,7 +37,14 @@ You can use the script as a library by calling `broback(sentence)` directly, or
 call it from the command line. Say something custom as an argument to the script,
 or the program will just use a default sentence:
 
-`python broize.py "I am an engineer"`
+`python broize.py "This is a program"`
+
+`python broize_enhanced.py "This is the enhanced program using SequenceMatcher"`
+
+`python broize_iBERT.py "This uses DistilBert"`
+
+Automated testing
+'python process_inputs.py'
 
 Note that this bot is _extremely simple_ as it's been optimized for use
 as a training tool. It's not very interesting by itself!
