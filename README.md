@@ -5,6 +5,7 @@ We are sharing our updates here so that it may potentially lead to future enhanc
 Capabilities added
 1. broize_enhanced.py - FAQ handling with SequenceMatcher
 2. broize_iBERT.py - FAQ handling with DistilBert and computing cosine similarity
+3. process_inputs.py - for handling automated testing of inputs.txt and output to outputs.csv
 
 
 # Brobot
