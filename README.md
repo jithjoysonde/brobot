@@ -7,8 +7,6 @@ Capabilities co-authored with Neha Shreshta
 2. broize_iBERT.py - FAQ handling with DistilBert and computing cosine similarity
 3. process_inputs.py - for handling automated testing of inputs.txt and output to outputs.csv
 4. Brobot Arch.jpg - based on current understanding of original brobot https://github.com/lizadaly/brobot
-
-![Brobot Arch]([Brobot Arch.jpg](https://github.com/jithjoysonde/brobot/blob/master/Brobot%20Arch.jpg))
 ![Brobot Arch](https://github.com/user-attachments/assets/ceb633ed-8960-4b7f-bb77-6418c09da689)
 # Brobot
 
