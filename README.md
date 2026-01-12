@@ -9,6 +9,7 @@ Capabilities co-authored with Neha Shreshta
 4. Brobot Arch.jpg - based on current understanding of original brobot https://github.com/lizadaly/brobot
 
 ![Brobot Arch]([Brobot Arch.jpg](https://github.com/jithjoysonde/brobot/blob/master/Brobot%20Arch.jpg))
+![Brobot Arch](https://github.com/user-attachments/assets/ceb633ed-8960-4b7f-bb77-6418c09da689)
 # Brobot
 
 Sample code for a tutorial on bot creation in Python: <a href="https://apps.worldwritable.com/tutorials/chatbot">Chatbot Fundamentals:
