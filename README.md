@@ -2,10 +2,11 @@ This brobot code is a fork from https://github.com/lizadaly/brobot
 
 We are sharing our updates here so that it may potentially lead to future enhancements. :)
 
-Capabilities added
+Capabilities co-authored with Neha Shreshta
 1. broize_enhanced.py - FAQ handling with SequenceMatcher
 2. broize_iBERT.py - FAQ handling with DistilBert and computing cosine similarity
 3. process_inputs.py - for handling automated testing of inputs.txt and output to outputs.csv
+4. Brobot Arch.jpg - based on current understanding of original brobot https://github.com/lizadaly/brobot
 
 
 # Brobot
