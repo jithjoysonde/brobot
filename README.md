@@ -17,6 +17,10 @@ Requires Python 2.7 or Python 3
 
 `pip install -r requirements.txt`
 
+
+download Textblob corpora
+'python -m textblob.download_corpora'
+
 ### Run the command-line interface
 
 You can use the script as a library by calling `broback(sentence)` directly, or
