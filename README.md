@@ -1,3 +1,12 @@
+This brobot code is a fork from https://github.com/lizadaly/brobot
+
+We are sharing our updates here so that it may potentially lead to future enhancements. :)
+
+Capabilities added
+1. broize_enhanced.py - FAQ handling with SequenceMatcher
+2. broize_iBERT.py - FAQ handling with DistilBert and computing cosine similarity
+
+
 # Brobot
 
 Sample code for a tutorial on bot creation in Python: <a href="https://apps.worldwritable.com/tutorials/chatbot">Chatbot Fundamentals:
@@ -5,7 +14,7 @@ An interactive guide to writing bots in Python</a>
 
 ## Installation
 
-Requires Python 2.7 or Python 3
+Requires Python 3
 
 ### Set up and activate a virtualenv
 
