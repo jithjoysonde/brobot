@@ -8,7 +8,7 @@ Capabilities co-authored with Neha Shreshta
 3. process_inputs.py - for handling automated testing of inputs.txt and output to outputs.csv
 4. Brobot Arch.jpg - based on current understanding of original brobot https://github.com/lizadaly/brobot
 
-
+![Brobot Arch](Brobot Arch.jpg)
 # Brobot
 
 Sample code for a tutorial on bot creation in Python: <a href="https://apps.worldwritable.com/tutorials/chatbot">Chatbot Fundamentals:
